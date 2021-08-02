@@ -52,7 +52,7 @@ xkb_symbols "basic" {
     key <AB07> {[Cyrillic_softsign, Cyrillic_SOFTSIGN, U2212, MillSign]}; // U+2212 MINUS SIGN
     key <AB08> {[Cyrillic_be, Cyrillic_BE, guillemotleft, doublelowquotemark]};
     key <AB09> {[Cyrillic_yu, Cyrillic_YU, guillemotright, leftdoublequotemark]};
-    key <AB10> {[period, comma, ellipsis]};
+    key <AB10> {[period, comma, ellipsis, U0301]};
 
     key <SPCE> {[space, space, nobreakspace, nobreakspace]};
 
